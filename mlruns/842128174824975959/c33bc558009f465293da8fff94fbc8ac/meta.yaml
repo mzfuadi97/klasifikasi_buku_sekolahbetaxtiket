@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/842128174824975959/c33bc558009f465293da8fff94fbc8ac/artifacts
+deleted_time: 1716133693345
+end_time: 1716125805887
+entry_point_name: ''
+experiment_id: '842128174824975959'
+lifecycle_stage: deleted
+run_id: c33bc558009f465293da8fff94fbc8ac
+run_name: intrigued-jay-273
+run_uuid: c33bc558009f465293da8fff94fbc8ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716125801811
+status: 3
+tags: []
+user_id: mzfuadi

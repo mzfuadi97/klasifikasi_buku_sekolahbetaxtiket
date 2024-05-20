@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/842128174824975959/aa8ef801cd8641849827a68c8b2ad167/artifacts
+deleted_time: 1716134988780
+end_time: 1716134856846
+entry_point_name: ''
+experiment_id: '842128174824975959'
+lifecycle_stage: deleted
+run_id: aa8ef801cd8641849827a68c8b2ad167
+run_name: Random Forest_without_pca
+run_uuid: aa8ef801cd8641849827a68c8b2ad167
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716134855482
+status: 3
+tags: []
+user_id: mzfuadi

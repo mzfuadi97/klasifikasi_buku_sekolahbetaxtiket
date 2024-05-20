@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/842128174824975959/4997b180a5974d238eb3c2977f6d2d2b/artifacts
+deleted_time: 1716133954437
+end_time: 1716133950687
+entry_point_name: ''
+experiment_id: '842128174824975959'
+lifecycle_stage: deleted
+run_id: 4997b180a5974d238eb3c2977f6d2d2b
+run_name: SVM
+run_uuid: 4997b180a5974d238eb3c2977f6d2d2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716133847250
+status: 3
+tags: []
+user_id: mzfuadi

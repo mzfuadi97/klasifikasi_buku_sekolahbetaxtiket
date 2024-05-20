@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1716135684945
+current_stage: None
+description: ''
+last_updated_timestamp: 1716135684945
+name: LR
+run_id: 7dc5ad42e7344ff6b2f7d5477507ec22
+run_link: ''
+source: mlflow-artifacts:/842128174824975959/7dc5ad42e7344ff6b2f7d5477507ec22/artifacts/model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/842128174824975959/7dc5ad42e7344ff6b2f7d5477507ec22/artifacts/model
+user_id: null
+version: 1
